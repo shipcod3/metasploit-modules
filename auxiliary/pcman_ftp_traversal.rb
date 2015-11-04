@@ -22,7 +22,8 @@ class Metasploit3 < Msf::Auxiliary
       'Platform'		 => 'win',
       'Author'		 =>
         [
-          'Jay Turla <@shipcod3>' # msf and initial discovery
+          'Jay Turla <@shipcod3>', # msf 
+          'James Fitts' # initial discovery
         ],
       'License'		 => MSF_LICENSE,
       'References'	 =>
